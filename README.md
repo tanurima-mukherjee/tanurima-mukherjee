@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tanurima Mukherjee
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ How to reach me Linkedin- @tanurima-mukherjee
+- 💞️ How to reach me Linkedin- @tanurima-mukherjee 
                      Instagram- @tanurima-mukherjee
   
 
