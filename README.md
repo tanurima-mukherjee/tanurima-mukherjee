@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/sneha rani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha rani" height="30" width="40" /></a>
 <a href="https://instagram.com/_sne.h.a___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sne.h.a___" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ranisnehaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranisnehaaa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ranisnehaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranisnehaaa" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tanurima-mukherjee2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanurima-mukherjee2" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ranisnehaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ranisnehaaa" height="30" width="40" /></a>
 </p>
 
