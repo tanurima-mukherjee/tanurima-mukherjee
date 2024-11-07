@@ -1,4 +1,3 @@
-[![MasterHead](https://www.bplogix.com/hubfs/low-code-platform-guide.png)](https://Pratik-Shrivastava.io)
 <h1 align="center">Hi 👋, I'm Tanurima</h1>
 <h3 align="center">I am an enthusiastic learner. My hobbies are learning tech skills.</h3>
 
@@ -7,7 +6,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sneha-2510](https://github.com/sneha-2510)
+- 👨‍💻 All of my projects are available at [Link](https://github.com/tanurima-mukherjee)
 
 - 📫 How to reach me **tanurinamukherjee2@gmail.com**
 
