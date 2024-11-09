@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="gitartwork.svg" alt="gitartwork">
+</div>
+
 <h1 align="center">Hi 👋, I'm Tanurima</h1>
 <h3 align="center">I am an enthusiastic learner. My hobbies are learning tech skills.</h3>
 
